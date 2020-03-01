@@ -1,6 +1,6 @@
   # Unit 20 State Homework: 🏬 Online Marketplace
 
-In this assignment, you will be creating a marketplace that allows users to view products from Best Buy. The user will be able to view details about the product, and if they decide, add the product to a shopping cart.
+In this assignment, you will be creating a marketplace that allows users to view products from Best Buy. The user will be able to view details about the product, and if they decide, add the product to a shopping cart. App deployed at : https://test-2864826482.herokuapp.com/
 
 ## Instructions
 
